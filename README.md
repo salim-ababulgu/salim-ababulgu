@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-I'm @salim-ababulgu, a passionate French web developer.
+I am @salim-ababulgu, a web developer studying at @La Plateforme_ . A school of digital and new technologies.
 
 ## About Me
 
