@@ -1,3 +1,6 @@
+
+<img src="https://res.cloudinary.com/dbw0bvivf/image/upload/v1717676071/biuyjy3uq49j44dqkgjh.png"  alt="Salim ABABULGU | Banner">
+
 # Hi there! 👋
 
 I'm @salim-ababulgu, a passionate French web developer.
