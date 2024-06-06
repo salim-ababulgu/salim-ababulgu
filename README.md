@@ -19,10 +19,8 @@ I am actively looking for a work-study opportunity starting in September 2024. I
 
 ## Skills
 
-- HTML, CSS, JavaScript
-- Frameworks: React, Vue.js
-- Tools: Git, npm
-- web page mockup: Figma
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,react,bootstrap,tailwind,expressjs,nodejs,vscode,figma,github,sass,mongodb,mysql,git,npm&perline=8)](https://github.com/Aurelily)
+
 
 ## Contact
 
